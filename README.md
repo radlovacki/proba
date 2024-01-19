@@ -16,3 +16,6 @@ int main(void)
 
 Ovo je [link do mog sajta](http://www.radlovacki.com/).
 
+![Na slici je Velimir Radlovacki](https://www.radlovacki.com/wp-content/uploads/2019/12/home.jpg)
+
+
