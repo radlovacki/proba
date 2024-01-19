@@ -1,16 +1,6 @@
-# Glavni naslov
+# Ovo je naslov
 
-Ovo je **novi** *pasus* _teksta_.
-Ovo je ***tekst*** u istom pasusu.
+Ovo je **prvi** *pasus* _teksta_.
+Ovo je i dalje isti ***pasus*** teksta.
 
-Ovo je drugi ~~pasus~~ teksta. Opis funkcije `printf()`.
-
-> Ovo je neki citat...
-
-```cs
-Console.WriteLine("Ovo je kod u programskom jeziku C#");
-```
-
-![Слика мачке](https://myoctocat.com/assets/images/base-octocat.svg)
-
-Ovo je [link do mog sajta](https://www.radlovacki.com/)
+Ovo je drugi pasus teksta. Ovo je ~~komanda~~ funkcija `printf()`.
