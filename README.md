@@ -13,3 +13,6 @@ int main(void)
     printf("Ovo je C kod");
 }
 ```
+
+Ovo je [link do mog sajta](http://www.radlovacki.com/).
+
