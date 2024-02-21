@@ -26,5 +26,6 @@ int main(void)
 flowchart TD
     Start --> id1[[int i, n, suma = 0]]
     id1 --> id2[\n/]
-    
+    id2 --> id3[suma = 0]
+    id3 --> id4{i = 1 .. n}
 ```
