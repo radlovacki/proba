@@ -24,5 +24,7 @@ int main(void)
 
 ```mermaid
 flowchart TD
-    Start --> Stop
+    Start --> id1[[int i, n, suma = 0]]
+    id1 --> id2[\n/]
+    
 ```
