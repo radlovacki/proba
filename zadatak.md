@@ -22,5 +22,7 @@ int main(void)
 
 ## Алгоритам
 
+```mermaid
 flowchart TD
     Start --> Stop
+```
