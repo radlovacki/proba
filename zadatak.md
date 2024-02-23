@@ -27,8 +27,9 @@ flowchart TD
     Start --> id1[[int i, n, suma = 0]]
     id1 --> id2[\n/]
     id2 --> id3[suma = 0]
-    id3 --> id4{i = 1 .. n}
-    id4 --> id5[suma += i]
+    id3 --> id4{i < n}
+    id4 --> id40[i = 1 .. n]
+    id0 --> id5[suma += i]
     id5 --> id4
     id4 -->|No| id6[/suma\]
     id6 --> id7[Stop]
