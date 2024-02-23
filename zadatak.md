@@ -28,10 +28,10 @@ flowchart TD
     id1 --> id2[\n/]
     id2 --> id3[suma = 0]
     id3 --> id4{i `<=` n}
-    id4 -->|Yes| id40[i = 1 .. n]
-    id40 --> id41[suma += i]
-    id41 --> id42[i++]
-    id42 --> id4
-    id4 -->|No| id5[/suma\]
-    id5 --> id6[Stop]
+    id4 -->|Yes| id5[i = 1 .. n]
+    id5 --> id6[suma += i]
+    id6 --> id7[i++]
+    id7 --> id4
+    id4 -->|No| id10[/suma\]
+    id10 --> id11[Stop]
 ```
